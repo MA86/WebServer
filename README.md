@@ -1,4 +1,5 @@
-# Web Server Application:
+# Web Server Application
+
 Using Python socket programming, I completed the assigned parts of this Web Server application.
 
 
